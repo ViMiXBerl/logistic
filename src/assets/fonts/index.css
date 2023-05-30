@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Rubik, 400, Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Rubik, 500, Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: url(./Rubik-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Rubik, 600, SemiBold';
+    font-style: normal;
+    font-weight: 600;
+    src: url(./Rubik-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Rubik, 800, ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    src: url(./Rubik-ExtraBold.ttf);
+}
