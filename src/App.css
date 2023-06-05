@@ -139,10 +139,11 @@ body {
   }
   
   .heading {
-    top: 13%;
+    top: 20%;
     left: 13%;
     width: 75%;
-    height: 75vh;
+    height: 0;
+    height: 50vh;
   }
 
   .heading__wrapper_opacity {
