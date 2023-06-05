@@ -139,15 +139,15 @@ body {
   }
   
   .heading {
-    top: 20%;
+    top: 25%;
     left: 13%;
     width: 75%;
-    height: 0;
-    height: 50vh;
+    height: auto;
   }
 
   .heading__wrapper_opacity {
     width: 90%;
+    padding: 2rem;
   }
 
   .heading__background-image_wrapper {
@@ -201,7 +201,7 @@ body {
     top: 15%;
     left: 5%;
     width: 90%;
-    height: 70vh;
+    height: auto;
   }
 
   .heading__title {
